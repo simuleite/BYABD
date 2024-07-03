@@ -3,6 +3,11 @@
 导入：你道听途说的计算机最重要的语言是什么？
 答案：英语
 
+![](../source/English.png)
+![](../source/Translation00.png)
+![](../source/Translation01.png)
+中文翻译的问题
+
 ## 认识计算机
 计算机：用二进制表示数据和指令，用二进制计算的机器。实际上是一堆门电路。
 
