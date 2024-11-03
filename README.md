@@ -2,7 +2,7 @@
 
 # C语言自学教材
 [视频：程序设计入门——C语言](https://www.icourse163.org/course/ZJU-199001?from=searchPage&outVendor=zw_mooc_pcssjg_)
-浙江大学何钦铭老师的C语言入门课，特点是有PTA题库。题库可以帮助我们测试自己程序的健壮性。
+浙江大学翁恺老师的C语言入门课，特点是有PTA题库。题库可以帮助我们测试自己程序的健壮性。
 
 [书籍：C Primer Plus](https://book.douban.com/subject/26792521/)
 百科全书，手把手教学，不可能学不会。有丰富的课后题和[奇数题答案](https://ptgmedia.pearsoncmg.com/images/9780321928429/downloads/9780321928429_ProgrammingExerciseAnswers_Selected.pdf)
@@ -11,6 +11,8 @@
 第一部分是简明的C教程，额外介绍了一些Linux编程的内容，如gcc、gdb
 
 # 工具
+[C程序可视化运行](https://pythontutor.com/c.html#mode=edit)：使用可视化工具，理解你的程序每一步在做什么
+
 [小熊猫C++](http://royqh.net/redpandacpp/)：IDE，只能写C/C++
 
 [VSCode](https://code.visualstudio.com/)：文本编辑器，装上插件支持所有语言
